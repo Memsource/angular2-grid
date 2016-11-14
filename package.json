@@ -1,6 +1,6 @@
 {
   "name": "angular2-grid",
-  "version": "0.11.0",
+  "version": "0.11.0-memsource",
   "description": "A grid-based drag/drop/resize directive plugin for Angular 2",
   "main": "dist/main.js",
   "typings": "dist/main.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BTMorton/angular2-grid.git"
+    "url": "https://github.com/Memsource/angular2-grid.git"
   },
   "keywords": [
     "angular",
@@ -31,7 +31,8 @@
     "Carlos Esteban Lopez Jaramillo (https://github.com/Luchillo)",
     "Niklas Berg (https://github.com/nkholski)",
     "Wouter (https://github.com/wuhkuh)",
-    "Brian Ellis (https://github.com/OnlyAGhost)"
+    "Brian Ellis (https://github.com/OnlyAGhost)",
+    "Dalibor Frivaldsky (https://github.com/dalibor-frivaldsky)"
   ],
   "license": "MIT",
   "bugs": {
